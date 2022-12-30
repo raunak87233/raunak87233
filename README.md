@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raunak Gupta</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" align="“left”" alt="“coding”" style="max-width: 1200;">
+<img src="https://i1.wp.com/i.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy-downsized.gif?w=770&ssl=1.gif" align="“left”" alt="“coding”" style="max-width: 1200;">
 
 - 📫 How to reach me **https://github.com/raunak87233**
 
