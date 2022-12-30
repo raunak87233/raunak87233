@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raunak Gupta</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right" width="400" src="https://i.gifer.com/QRUB.gif">
+<img align="right" width="400" src="https://i.gifer.com/QRUB.gif.gif">
 - 📫 How to reach me **https://github.com/raunak87233**
 
 - ⚡ Fun fact **I am Funny😁**
