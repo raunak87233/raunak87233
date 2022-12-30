@@ -20,5 +20,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raunak87233&show_icons=true&locale=en" alt="raunak87233" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raunak87233&" alt="raunak87233" /></p>
+# Productivity Stats📈:
+<a href="https://github.com/Raunak gupta/github-readme-activity-graph"><img alt="Raunak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Raunak gupta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+
+## 📊 GitHub Activity
+| ![Raunak github stats](https://github-readme-stats.vercel.app/api?username=Raunak gupta&show_icons=true&theme=highcontrast) | ![Raunak GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raunak gupta&theme=highcontrast) 
 
 
