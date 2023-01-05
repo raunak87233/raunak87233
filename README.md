@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raunak Gupta</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right" width="400" src="https://media0.giphy.com/media/u5BzptR1OTZ04/giphy.gif?cid=ecf05e47s7zsnk22eqlkeoyxxxze9xppo7tuc2h3v40l43mw&rid=giphy.gif&ct=g">
-- 📫 How to reach me **https://github.com/raunak87233**
+- 📫 How to reach me **raunakgupta457@gmail.com**
 
 - ⚡ Fun fact **I am Funny😁**
 
