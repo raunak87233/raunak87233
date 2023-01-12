@@ -25,6 +25,6 @@
 
 
 
-| ![Raunak github stats](https://github-readme-stats.vercel.app/api?username=Raunak gupta&show_icons=true&theme=highcontrast) | ![Raunak GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raunak gupta&theme=highcontrast) 
+
 
 
