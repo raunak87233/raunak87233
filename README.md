@@ -1,3 +1,4 @@
+[![MasterHead](https://i.pinimg.com/736x/ff/57/35/ff5735b41db55d7f397ea331971d29ab.jpg)]
 <h1 align="center">Hi 👋, I'm Raunak Gupta</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
